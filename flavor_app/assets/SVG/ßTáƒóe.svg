@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_45" data-name="Rectangle 45" width="40" height="40" transform="translate(-73 571)" fill="#fefefe" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="طلباتى" transform="translate(73 -571)" clip-path="url(#clip-path)">
+    <g id="shopping-cart" transform="translate(-73 573.422)">
+      <path id="Path_324" data-name="Path 324" d="M12.888,23.438H34.141a1.172,1.172,0,0,0,1.127-.85L39.955,6.181a1.172,1.172,0,0,0-1.127-1.494H10.185L9.347.918A1.172,1.172,0,0,0,8.2,0H1.172a1.172,1.172,0,1,0,0,2.344H7.263l4.231,19.04a3.515,3.515,0,0,0,1.4,6.741h21.25a1.172,1.172,0,0,0,0-2.344H12.891a1.172,1.172,0,0,1,0-2.343ZM37.274,7.031,33.257,21.094H13.831L10.706,7.031Zm0,0" fill="#fefefe"/>
+      <path id="Path_325" data-name="Path 325" d="M11.719,31.641a3.516,3.516,0,1,0,3.516-3.516A3.52,3.52,0,0,0,11.719,31.641Zm3.516-1.172a1.172,1.172,0,1,1-1.172,1.172A1.173,1.173,0,0,1,15.234,30.469Zm0,0" fill="#fefefe"/>
+      <path id="Path_326" data-name="Path 326" d="M28.281,31.641A3.516,3.516,0,1,0,31.8,28.125,3.52,3.52,0,0,0,28.281,31.641ZM31.8,30.469a1.172,1.172,0,1,1-1.172,1.172A1.173,1.173,0,0,1,31.8,30.469Zm0,0" fill="#fefefe"/>
+    </g>
+  </g>
+</svg>

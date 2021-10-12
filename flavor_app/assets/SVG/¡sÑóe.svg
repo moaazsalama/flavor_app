@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_49" data-name="Rectangle 49" width="40" height="40" transform="translate(42 42)" fill="#fefefe" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="صفحتى" transform="translate(-42 -42)" clip-path="url(#clip-path)">
+    <g id="user" transform="translate(42 42)">
+      <g id="Group_68" data-name="Group 68">
+        <g id="Group_67" data-name="Group 67">
+          <path id="Path_327" data-name="Path 327" d="M20,0A20,20,0,1,0,40,20,20.023,20.023,0,0,0,20,0Zm0,36.834A16.834,16.834,0,1,1,36.834,20,16.853,16.853,0,0,1,20,36.834Z" fill="#fefefe" stroke="#a9d19b" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Group_70" data-name="Group 70" transform="translate(8.475 23.747)">
+        <g id="Group_69" data-name="Group 69">
+          <path id="Path_328" data-name="Path 328" d="M15.412,17.662c-4.375,0-8.468,2.53-11.525,7.123L5.84,26.513c2.58-3.876,5.98-6.011,9.571-6.011s6.991,2.135,9.571,6.011l1.954-1.729C23.879,20.191,19.786,17.662,15.412,17.662Z" transform="translate(-3.887 -17.662)" fill="#fefefe" stroke="#a9d19b" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Group_72" data-name="Group 72" transform="translate(11.768 7.177)">
+        <g id="Group_71" data-name="Group 71">
+          <path id="Path_329" data-name="Path 329" d="M17.058,5.383a8.285,8.285,0,1,0,8.232,8.285A8.268,8.268,0,0,0,17.058,5.383Zm0,13.4a5.119,5.119,0,1,1,5.066-5.119A5.1,5.1,0,0,1,17.058,18.786Z" transform="translate(-8.826 -5.383)" fill="#fefefe" stroke="#a9d19b" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
